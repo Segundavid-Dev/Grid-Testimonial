@@ -18,8 +18,6 @@ body{
 .testimonials{
     max-width: 1200px;
     margin: 5vw auto;
-    margin-left: 10vw;
-    margin-right: 10vw;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
